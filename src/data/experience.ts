@@ -4,11 +4,11 @@ export const experience = [
     company: "NCircle Tech Solutions Pvt. Ltd.",
     period: "2023 - Present",
     description: [
-      "Developed and maintained multiple applications using C# and .NET, ensuring high performance and reliability.",
-      "Collaborated with the team to design and implement multiple Angular-based web applications, enhancing user engagement and functionality.",
-      "Created a C# and .NET application to manage BIM Manager accounts, enabling efficient CRUD operations and improving data organization.",
+      "Develop and maintain multiple applications using C# and .NET, ensuring high performance and reliability.",
+      "Collaborate with the team to design and implement multiple Angular-based web applications, enhancing user engagement and functionality.",
+      "Workin on a C# and .NET application to manage BIM Manager accounts, enabling efficient CRUD operations and improving data organization.",
       "Built a fully-functional Forge Viewer to view 3D models and perform various operations, enhancing visualization capabilities for complex designs.",
-      "Worked with the team to implement cross-functional functionality for editing and viewing IFC files on the web, enabling seamless collaboration and data management."
+      "Work with the team to implement cross-functional functionality for editing and viewing IFC files on the web, enabling seamless collaboration and data management."
     ]
   },
     {
