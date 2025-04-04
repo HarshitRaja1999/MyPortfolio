@@ -3,11 +3,29 @@ import { Code2, Layout, MessageSquare, Smartphone } from 'lucide-react';
 
 export const projects = [
   {
+    title: "Wework Roadmap",
+    description: "Automation solution using BIM 360 API to efficiently manage project files, members, and account activities for streamlined project administration.",
+    icon: <Code2 className="text-[#0a192f]" size={24} />,
+    technologies: ["BIM460 API", "Automation Scripts", "Python", "REST APIs"]
+  }, 
+  {
+    title: "CCT- IFC Viewer & Editor",
+    description: "Developed automated conversion of IFC 3D models into optimized asset files for efficient rendering in a web-based IFC viewer.",
+    icon: <Layout className="text-[#0a192f]" size={24} />,
+    technologies: ["IFC", "JavaScript", "Web-Based IFC Viewer & Editor", "Python", ".NET", "C#", "Automation Scripting"]
+  },
+  {
     title: "Hexmail",
     description: "Discord bot which can connect with user's Gmail account for receiving and sending mails to/from discord with filtering.",
     icon: <MessageSquare className="text-[#0a192f]" size={24} />,
     link: "https://github.com/HarshitRaja1999/Hexmail",
     technologies: ["Node.js", "Javascript", "Python"]
+  },
+  {
+    title: "Forge Viewer",
+    description: "Developed a Forge Viewer application leveraging Autodesk APIs for efficient 3D model visualization and interaction.",
+    icon: <Layout className="text-[#0a192f]" size={24} />,
+    technologies: ["Autodesk Forge APIs", "Javascript", "NodeJS", "REST APIs", "HTML/CSS"]
   },
   {
     title: "Shopping App",
