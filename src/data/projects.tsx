@@ -69,5 +69,19 @@ export const projects = [
     description: "Developed an Android application, Reels Downloader, that allows users to download Instagram reels without watermarks or audio loss.",
     icon: <Smartphone className="text-[#0a192f]" size={24} />,
     technologies: ["Dart", "Flutter", "Android Studio"]
+  },
+  {
+    title: "EdgeLight - (For Windows)",
+    description: "A lightweight, modern desktop tool that adds a soft light border around your display.",
+    icon: <Layout className="text-[#0a192f]" size={24} />,
+    link: "https://github.com/HarshitRaja1999/EdgeLight.App",
+    technologies: ["C#", ".Net", "WPF", "Desktop App", "Real-time UI event handling"]
+  },
+  {
+    title: "DualAudioShare",
+    description: "DualAudioShare is a lightweight Windows desktop app that lets you mirror audio from one playback device to another in real-time.",
+    icon: <Layout className="text-[#0a192f]" size={24} />,
+    link: "https://github.com/HarshitRaja1999/DualAudioShare",
+    technologies: ["C#", ".Net", "WPF", "Desktop App", "Real-time audio processing", "ModernWpf", "NAudio"]
   }
 ];
